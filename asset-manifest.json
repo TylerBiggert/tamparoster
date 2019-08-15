@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tamparoster/static/css/main.2cce8147.chunk.css",
+    "main.js": "/tamparoster/static/js/main.0c2fee9b.chunk.js",
+    "main.js.map": "/tamparoster/static/js/main.0c2fee9b.chunk.js.map",
+    "runtime~main.js": "/tamparoster/static/js/runtime~main.0ad1d3a9.js",
+    "runtime~main.js.map": "/tamparoster/static/js/runtime~main.0ad1d3a9.js.map",
+    "static/js/2.2b5f860c.chunk.js": "/tamparoster/static/js/2.2b5f860c.chunk.js",
+    "static/js/2.2b5f860c.chunk.js.map": "/tamparoster/static/js/2.2b5f860c.chunk.js.map",
+    "index.html": "/tamparoster/index.html",
+    "precache-manifest.9d5001adce2fe5d375ac3467a447cf6c.js": "/tamparoster/precache-manifest.9d5001adce2fe5d375ac3467a447cf6c.js",
+    "service-worker.js": "/tamparoster/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/tamparoster/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/tamparoster/static/media/logo.5d5d9eef.svg"
+  }
+}
