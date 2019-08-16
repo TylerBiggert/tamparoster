@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tamparoster/precache-manifest.f904e21bc46a62d9e82a665a6463fe42.js"
+  "/tamparoster/precache-manifest.5cb3b3a5fa8602f598717d1a53a9db18.js"
 );
 
 self.addEventListener('message', (event) => {
