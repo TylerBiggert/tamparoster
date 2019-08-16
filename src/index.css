@@ -5,9 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #a7d7ff;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+
+  /*Player Cards*/
+  #raysLogo {
+  min-height: 200px;
+  }
+.photoSize {
+  width: 200px;
+}
+.numberLft {
+  position: absolute;
+  bottom: 0;
+  left:0;
+}
+.textRt {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
