@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07a2a2688604cb73249779c7aad582ff",
+    "revision": "b7d376213bd836664f1478925cba8ce7",
     "url": "/tamparoster/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tamparoster/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "3a877f45991089cc8667",
+    "revision": "40440a8ccc3a4067eca1",
     "url": "/tamparoster/static/css/main.bbb99f2b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tamparoster/static/js/2.9ea679ed.chunk.js"
   },
   {
-    "revision": "3a877f45991089cc8667",
-    "url": "/tamparoster/static/js/main.2704d4a3.chunk.js"
+    "revision": "40440a8ccc3a4067eca1",
+    "url": "/tamparoster/static/js/main.3b45a34a.chunk.js"
   },
   {
     "revision": "0f20f336d0e03aadb48c",

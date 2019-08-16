@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tamparoster/static/css/main.bbb99f2b.chunk.css",
-    "main.js": "/tamparoster/static/js/main.2704d4a3.chunk.js",
-    "main.js.map": "/tamparoster/static/js/main.2704d4a3.chunk.js.map",
+    "main.js": "/tamparoster/static/js/main.3b45a34a.chunk.js",
+    "main.js.map": "/tamparoster/static/js/main.3b45a34a.chunk.js.map",
     "runtime~main.js": "/tamparoster/static/js/runtime~main.0ad1d3a9.js",
     "runtime~main.js.map": "/tamparoster/static/js/runtime~main.0ad1d3a9.js.map",
     "static/css/2.31dafeb2.chunk.css": "/tamparoster/static/css/2.31dafeb2.chunk.css",
     "static/js/2.9ea679ed.chunk.js": "/tamparoster/static/js/2.9ea679ed.chunk.js",
     "static/js/2.9ea679ed.chunk.js.map": "/tamparoster/static/js/2.9ea679ed.chunk.js.map",
     "index.html": "/tamparoster/index.html",
-    "precache-manifest.b9eb569113f94600f8ba22446426c3c9.js": "/tamparoster/precache-manifest.b9eb569113f94600f8ba22446426c3c9.js",
+    "precache-manifest.bb011a0167064425794b1e520adc62a9.js": "/tamparoster/precache-manifest.bb011a0167064425794b1e520adc62a9.js",
     "service-worker.js": "/tamparoster/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/tamparoster/static/css/2.31dafeb2.chunk.css.map",
     "static/css/main.bbb99f2b.chunk.css.map": "/tamparoster/static/css/main.bbb99f2b.chunk.css.map"
